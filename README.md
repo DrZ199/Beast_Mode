@@ -1,4 +1,4 @@
-# BeastMode AI Chat Browser - Complete Description
+# BeastMode AI Chat Browser
 
 ## 🎯 **What It Is**
 
